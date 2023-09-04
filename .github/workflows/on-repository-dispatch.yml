@@ -1,4 +1,4 @@
-name: Repository Dispatch
+name: Repository Dispatch Test
 on:
   repository_dispatch:
     types: [tests]
